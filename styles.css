@@ -6,3 +6,9 @@ body{
   background-image: url("https://dn721309.ca.archive.org/0/items/theoriginalfilesofsomewindowswallpapers/bliss%20600dpi.jpg");
   background-size: cover;
 }
+
+.block1{
+  background-color:#F8F8BA;
+  margin-left:auto;
+  margin-top:auto;
+}
